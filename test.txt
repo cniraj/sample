@@ -6,4 +6,4 @@ system entity type  -  Bug
 
 entityScopeId - TP
 
-This is totally time pass always
+This is totally time pass
