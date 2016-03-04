@@ -1,0 +1,8 @@
+Test 12345
+
+global id - 9
+system id - 6
+system entity type  -  Bug
+
+entityScopeId - TP
+
